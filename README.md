@@ -19,9 +19,9 @@ Python
 
 PyPDF2 / pdfplumber (PDF okuma)
 
-NLTK / spaCy / transformers (kullandığına göre sil veya bırak)
+NLTK / spaCy / transformers 
 
-TextRank / AI tabanlı özetleme (varsa)
+TextRank / AI tabanlı özetleme 
 
 📦 Kurulum
 git clone https://github.com/kullaniciadi/pdf-smart-summary.git
